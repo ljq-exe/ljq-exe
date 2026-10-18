@@ -20,7 +20,7 @@
 
 ## `$ whoami`
 
-<img align="right" width="180" src=".typpingcat.gif" alt="My personal sticker" />
+<img align="right" width="180" src="./.typpingcat.gif" alt="My personal sticker" />
 
 Hi! I'm **Quân**, a Software Engineering student interested in building software and exploring how technology works.
 
