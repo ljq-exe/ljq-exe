@@ -1,86 +1,106 @@
-<!-- ================= HERO ================= -->
-
 <div align="center">
 
-# `ljq-exe` // Developer Profile
+# `ljq-exe`
 
-### Building ideas into software. One commit at a time.
+### < Hello, World! /> 👋
 
-*Software Engineering Student · Aspiring Full-Stack Developer*
+**Software Engineering Student · Aspiring Full-Stack Developer**
 
-[![GitHub](https://img.shields.io/badge/GitHub-ljq--exe-181717?style=for-the-badge&logo=github)](https://github.com/ljq-exe)
-![Status](https://img.shields.io/badge/STATUS-LEARNING_&_BUILDING-00D9FF?style=for-the-badge)
+<img src="https://img.shields.io/badge/BUILDING-MY%20OWN%20PATH-00D9FF?style=for-the-badge&labelColor=0D1117" alt="Building my own path" />
+
+<p>
+  <a href="https://github.com/ljq-exe?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore-My%20Repositories-181717?style=flat-square&logo=github" alt="Explore repositories" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-## `01` / SYSTEM PROFILE
+## `$ whoami`
 
-```js
-const quan = {
-  role: "Software Engineering Student",
-  objective: "Full-Stack Developer",
-  currentlyBuilding: "Web applications & REST APIs",
-  learning: ["TypeScript", "NestJS", "React"],
-  foundation: ["Java", "JavaScript", "SQL", "Python"],
-  mindset: "Understand it. Build it. Improve it."
-};
-```
+<img align="right" width="180" src="./assets/sticker.png" alt="My personal sticker" />
 
-I enjoy exploring how software works behind the scenes, designing practical solutions, and turning concepts into working applications.
+Hi! I'm **Quân**, a Software Engineering student interested in building software and exploring how technology works.
 
----
+- 💻 Focused on web development
+- 🌱 Learning TypeScript, NestJS, React, and Java
+- 🧠 Interested in backend development and software architecture
+- 🛠️ Learning by coding, debugging, and building projects
+- 🎯 Working toward becoming a Full-Stack Developer
 
-## `02` / TECHNOLOGY MATRIX
-
-| Domain | Technologies |
-|:--|:--|
-| Languages | Java · JavaScript · TypeScript · Python |
-| Frontend | HTML5 · CSS3 · React |
-| Backend | Node.js · NestJS · Java |
-| Database | SQL · PostgreSQL · SQL Server |
-| Workflow | Git · GitHub · VS Code |
+<br clear="right"/>
 
 ---
 
-## `03` / CURRENT OPERATIONS
+## `$ tech_stack`
 
-> `MISSION_001` — Strengthen my TypeScript and backend development skills.
+**Languages**
 
-> `MISSION_002` — Build maintainable APIs and practical web applications.
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+</p>
 
-> `MISSION_003` — Improve software design, debugging, and problem-solving.
+**Frontend & Backend**
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
+</p>
+
+**Tools & Databases**
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+</p>
 
 ---
 
-## `04` / PROJECT ARCHIVE
+## `$ projects`
 
-**What I'm building**
+I use projects to turn what I learn into practical experience.
 
-I'm developing my skills through university assignments, personal experiments, and practical software projects.
+Explore my repositories to discover my coursework, experiments, and software development projects.
 
-Explore my repositories:
+<div align="center">
 
-[![Repositories](https://img.shields.io/badge/EXPLORE-ALL_REPOSITORIES-00D9FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ljq-exe?tab=repositories)
+<a href="https://github.com/ljq-exe?tab=repositories">
+  <img src="https://img.shields.io/badge/VIEW%20ALL%20PROJECTS-00D9FF?style=for-the-badge&logo=github&logoColor=black" alt="View all projects" />
+</a>
+
+</div>
 
 ---
 
-## `05` / DEVELOPER LOG
+## `$ developer_mindset`
 
-- `LEARN` → Understand the fundamentals.
-- `BUILD` → Turn knowledge into working software.
-- `DEBUG` → Learn from mistakes instead of avoiding them.
-- `REPEAT` → Make consistent progress every day.
+<div align="center">
+
+> **Understand the code. Build with purpose. Improve continuously.**
+
+`LEARN` ✦ `BUILD` ✦ `DEBUG` ✦ `GROW`
+
+</div>
 
 ---
 
 <div align="center">
 
-### `END OF FILE`
+### Thanks for visiting my profile! 🐾
 
-**Still learning. Still building. Still debugging.** ⚡
+*Still learning. Still building. One commit at a time.*
 
-<sub>Designed by ljq-exe · Powered by curiosity and coffee.</sub>
+<a href="https://github.com/ljq-exe">github.com/ljq-exe</a>
 
 </div>
