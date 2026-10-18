@@ -31,70 +31,44 @@ Hi! I'm **Quân**, a Software Engineering student interested in building softwar
 
 <br clear="right"/>
 
+
+## 🐱 A little about me...
+
+```javascript
 const quan = {
   pronouns: ["he", "him"],
 
-  os: [
-    "Windows 11",
-    "Kali Linux"
-  ],
+  os: ["Windows 11", "Kali Linux"],
 
   programmingLanguages: [
     "JavaScript",
     "TypeScript",
     "Java",
     "Python",
-    "SQL",
-    "HTML5",
-    "CSS3"
+    "SQL"
   ],
 
-  humanLanguages: {
-    Vietnamese: "Native",
-    English: "Learning",
-    French: "Learning",
-    Chinese: "Learning",
-    Japanese: "Learning"
-  },
-
-  frameworks: [
-    "React",
-    "Node.js",
-    "NestJS",
-    "Spring Boot"
+  humanLanguages: [
+    "Vietnamese",
+    "English",
+    "French",
+    "Chinese",
+    "Japanese"
   ],
 
-  databases: [
-    "PostgreSQL",
-    "Microsoft SQL Server",
-    "MySQL"
-  ],
+  frameworks: ["React", "NestJS", "Node.js", "Spring Boot"],
 
-  tools: [
-    "Git",
-    "GitHub",
-    "VS Code",
-    "IntelliJ IDEA",
-    "WebStorm",
-    "DataGrip",
-    "Postman"
-  ],
+  databases: ["PostgreSQL", "SQL Server"],
 
-  networking: [
-    "HTTP/HTTPS",
-    "REST API",
-    "TCP/IP",
-    "DNS"
-  ],
+  tools: ["Git", "GitHub", "VS Code", "IntelliJ IDEA"],
 
   interests: [
     "Full-Stack Development",
     "Backend Engineering",
-    "Software Architecture"
-  ],
-
-  motto: "Learn, build, and improve every day."
+    "Cybersecurity"
+  ]
 };
+```
 
 ---
 
