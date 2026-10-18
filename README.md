@@ -49,11 +49,9 @@ const quan = {
   ],
 
   humanLanguages: [
-    "Vietnamese",
-    "English",
-    "French",
-    "Chinese",
-    "Japanese"
+    "Vietnamese hmm i'm vietnamese",
+    "English --> Learning",
+    "Chinese --> Learning",
   ],
 
   frameworks: ["React", "NestJS", "Node.js", "Spring Boot"],
