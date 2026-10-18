@@ -31,6 +31,71 @@ Hi! I'm **Quân**, a Software Engineering student interested in building softwar
 
 <br clear="right"/>
 
+const quan = {
+  pronouns: ["he", "him"],
+
+  os: [
+    "Windows 11",
+    "Kali Linux"
+  ],
+
+  programmingLanguages: [
+    "JavaScript",
+    "TypeScript",
+    "Java",
+    "Python",
+    "SQL",
+    "HTML5",
+    "CSS3"
+  ],
+
+  humanLanguages: {
+    Vietnamese: "Native",
+    English: "Learning",
+    French: "Learning",
+    Chinese: "Learning",
+    Japanese: "Learning"
+  },
+
+  frameworks: [
+    "React",
+    "Node.js",
+    "NestJS",
+    "Spring Boot"
+  ],
+
+  databases: [
+    "PostgreSQL",
+    "Microsoft SQL Server",
+    "MySQL"
+  ],
+
+  tools: [
+    "Git",
+    "GitHub",
+    "VS Code",
+    "IntelliJ IDEA",
+    "WebStorm",
+    "DataGrip",
+    "Postman"
+  ],
+
+  networking: [
+    "HTTP/HTTPS",
+    "REST API",
+    "TCP/IP",
+    "DNS"
+  ],
+
+  interests: [
+    "Full-Stack Development",
+    "Backend Engineering",
+    "Software Architecture"
+  ],
+
+  motto: "Learn, build, and improve every day."
+};
+
 ---
 
 ## `$ tech_stack`
