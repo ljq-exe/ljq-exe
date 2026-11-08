@@ -1,9 +1,8 @@
-```html
 <div align="center">
 
 # `ljq-exe`
 
-### < Hello, World! /> 👋
+### <escape>< Hello, World! /></escape> 👋
 
 **Software Engineering Student | Aspiring Full-Stack Developer**
 
@@ -24,7 +23,7 @@ Hi! I'm **Quân**, a Software Engineering student from Vietnam 🇻🇳.
 - 🧠 Interested in Software Architecture & Cybersecurity
 - 🚀 Learning by building real-world projects
 
-<br clear="right"/>
+<escape><br clear="right"/></escape>
 
 ## `$ tech_stack`
 
@@ -59,4 +58,3 @@ Building, experimenting, and improving one project at a time.
 *Still learning. Still building. One commit at a time.* 🐾
 
 </div>
-```
