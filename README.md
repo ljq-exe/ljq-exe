@@ -1,160 +1,62 @@
-iv align="center">
-
-# `ljq-exe`
-
-### `> INITIALIZING DEVELOPER PROFILE...`
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Hello%2C+World!+I%27m+Quan;Software+Engineering+Student;Aspiring+Full-Stack+Developer;Fedora+Linux+%2B+Niri;Learning.+Building.+Evolving." alt="Typing Animation" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=ljq-exe&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/ljq-exe?label=FOLLOWERS&style=for-the-badge&color=00D9FF&labelColor=0D1117" alt="Followers" />
-
-<br/><br/>
-
-`SOFTWARE ENGINEERING` • `BACKEND DEVELOPMENT` • `OPEN SOURCE`
-
-</div>
-
----
-
-## `01. $ whoami`
-
-<img align="right" width="170" src="./typpingcat.gif" alt="Typing Cat GIF" />
-
-```yaml
-name: Quan
-alias: Lucas
-username: ljq-exe
-location: Da Nang, Vietnam
-
-education:
-  major: Software Engineering
-
-environment:
-  os: Fedora Linux
-  wm: Niri
-
-focus:
-  - Full-Stack Development
-  - Backend Engineering
-  - Software Architecture
-
-interests:
-  - Cybersecurity
-  - Linux & Open Source
-  - Machine Learning
-
-status: "Always learning..."
-```
-
-💻 Passionate about understanding how software works.
-
-🌱 Exploring **TypeScript, NestJS, React & Java**.
-
-🐧 Running **Fedora Linux + Niri**.
-
-🚀 Turning ideas into real-world projects.
-
-<br clear="right"/>
-
----
-
-## `02. $ cat tech_stack.md`
-
 <div align="center">
 
-### `> Programming Languages`
+<img src="./typpingcat.gif" width="160" alt="Typing cat" />
 
-<img src="https://skillicons.dev/icons?i=js,ts,java,python,html,css&theme=dark" alt="Programming Languages" />
+# Quan (Lucas)
 
-<br/>
+**Software Engineering Student · Full-Stack & Backend Developer**
 
-### `> Frameworks & Runtime`
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,spring&theme=dark" alt="Frameworks and Runtime" />
-
-<br/>
-
-### `> Database & Development Tools`
-
-<img src="https://skillicons.dev/icons?i=postgres,git,github,vscode,idea,postman&theme=dark" alt="Development Tools" />
-
-<br/>
-
-### `> Operating System & Environment`
-
-<img src="https://cdn.simpleicons.org/fedora/51A2DA" width="48" height="48" alt="Fedora Linux" />
-
-<br/>
-
-**`Fedora Linux`** · **`Niri`** · **`Open Source`**
-
-</div>
-
----
-
-## `03. $ ls ~/projects`
-
-<div align="center">
-
-### `> Projects & Experiments`
-
-*Exploring technologies, solving problems, and building software one project at a time.*
-
-<br/>
+Da Nang, Vietnam
 
 <a href="https://github.com/ljq-exe?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE_MY_REPOSITORIES-00D9FF?style=for-the-badge&logo=github&logoColor=0D1117" alt="Explore My Repositories" />
+  <img src="https://img.shields.io/badge/View_Repositories-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
 </a>
+<img src="https://img.shields.io/github/followers/ljq-exe?label=Followers&style=for-the-badge&color=0D1117&labelColor=0D1117" alt="Followers" />
 
 </div>
 
 ---
 
-## `04. $ cat developer_mindset.txt`
+## About
 
-```text
-[ SYSTEM INFORMATION ]
+I am a software engineering student focused on backend development and software architecture. I enjoy understanding how systems work from the inside out, and I build projects to test and deepen that knowledge. I run Fedora Linux with the Niri window manager and contribute to open source when I can.
 
-USER       : Lucas
-ROLE       : Software Engineering Student
-OS         : Fedora Linux
-WM         : Niri
+## Focus Areas
 
-[ DEVELOPMENT PROCESS ]
+- **Backend Engineering:** APIs, databases, and service design with Node.js, NestJS, and Spring
+- **Full-Stack Development:** TypeScript and React for end-to-end applications
+- **Software Architecture:** Clean structure, maintainability, and scalable design
+- **Interests:** Cybersecurity, Linux and open source, machine learning
 
-01 > LEARN
-02 > EXPERIMENT
-03 > BUILD
-04 > DEBUG
-05 > REFACTOR
-06 > REPEAT
+## Tech Stack
 
-[ STATUS ]
+**Languages**
 
-Continuous improvement in progress...
-```
+<img src="https://skillicons.dev/icons?i=js,ts,java,python,html,css&theme=dark" alt="Languages" />
 
----
+**Frameworks and Runtime**
 
-## `05. $ echo $PHILOSOPHY`
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,spring&theme=dark" alt="Frameworks" />
 
-<div align="center">
+**Databases and Tools**
 
-### **"Understand the code. Build with purpose. Improve continuously."**
+<img src="https://skillicons.dev/icons?i=postgres,git,github,vscode,idea,postman&theme=dark" alt="Tools" />
 
-<br/>
+**Platform:** Fedora Linux, Niri
 
-`LEARN` ✦ `BUILD` ✦ `DEBUG` ✦ `EVOLVE`
+## Featured Projects
 
-<br/>
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [Project Name](https://github.com/ljq-exe/repo) | Short description of what it does and the problem it solves | NestJS, PostgreSQL |
+| [Project Name](https://github.com/ljq-exe/repo) | Short description of what it does and the problem it solves | React, TypeScript |
+| [Project Name](https://github.com/ljq-exe/repo) | Short description of what it does and the problem it solves | Java, Spring |
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=4000&pause=1500&color=00D9FF&center=true&vCenter=true&width=550&lines=Still+learning.+Still+building.;One+commit+at+a+time.;The+journey+continues..." alt="Footer Typing Animation" />
+## Contact
 
-<br/>
-
-**`[ SYSTEM STATUS: ALWAYS EVOLVING ]`** 🐾
-
-</div>
+<a href="mailto:your.email@example.com">
+  <img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://linkedin.com/in/your-profile">
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
