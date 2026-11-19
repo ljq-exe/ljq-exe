@@ -1,62 +1,83 @@
 <div align="center">
 
-<img src="./typpingcat.gif" width="160" alt="Typing cat" />
+<img src="./typpingcat.gif" width="150" alt="Typing cat" />
 
-# Quan (Lucas)
+# QUAN // LUCAS
 
-**Software Engineering Student · Full-Stack & Backend Developer**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Backend+%2F+Full-Stack+Developer;Building+systems+from+the+kernel+up;Fedora+%2B+Niri+%2F+Always+learning" alt="Typing animation" />
 
-Da Nang, Vietnam
+<br/>
+
+<img src="https://img.shields.io/badge/LOCATION-Da_Nang%2C_Vietnam-FF2A6D?style=for-the-badge&labelColor=0B0F19" alt="Location" />
+<img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-05FFA1?style=for-the-badge&labelColor=0B0F19" alt="Status" />
+
+<br/><br/>
 
 <a href="https://github.com/ljq-exe?tab=repositories">
-  <img src="https://img.shields.io/badge/View_Repositories-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+  <img src="https://img.shields.io/badge/> VIEW_REPOSITORIES-00F0FF?style=for-the-badge&labelColor=0B0F19" alt="Repositories" />
 </a>
-<img src="https://img.shields.io/github/followers/ljq-exe?label=Followers&style=for-the-badge&color=0D1117&labelColor=0D1117" alt="Followers" />
+<a href="mailto:your.email@example.com">
+  <img src="https://img.shields.io/badge/> CONTACT-FF2A6D?style=for-the-badge&labelColor=0B0F19" alt="Contact" />
+</a>
 
 </div>
 
 ---
 
-## About
+### // 01 :: ABOUT
 
-I am a software engineering student focused on backend development and software architecture. I enjoy understanding how systems work from the inside out, and I build projects to test and deepen that knowledge. I run Fedora Linux with the Niri window manager and contribute to open source when I can.
+```diff
++ Software engineering student focused on backend systems and software architecture.
++ I build projects to understand how software works beneath the abstractions.
++ Daily driver: Fedora Linux with the Niri Wayland compositor.
++ Interests: cybersecurity, open source, machine learning.
+```
 
-## Focus Areas
+---
 
-- **Backend Engineering:** APIs, databases, and service design with Node.js, NestJS, and Spring
-- **Full-Stack Development:** TypeScript and React for end-to-end applications
-- **Software Architecture:** Clean structure, maintainability, and scalable design
-- **Interests:** Cybersecurity, Linux and open source, machine learning
+### // 02 :: STACK
 
-## Tech Stack
+<div align="center">
 
-**Languages**
+**LANGUAGES**
 
 <img src="https://skillicons.dev/icons?i=js,ts,java,python,html,css&theme=dark" alt="Languages" />
 
-**Frameworks and Runtime**
+**FRAMEWORKS & RUNTIME**
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,spring&theme=dark" alt="Frameworks" />
 
-**Databases and Tools**
+**DATA & TOOLING**
 
-<img src="https://skillicons.dev/icons?i=postgres,git,github,vscode,idea,postman&theme=dark" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=postgres,git,github,vscode,idea,postman&theme=dark" alt="Tooling" />
 
-**Platform:** Fedora Linux, Niri
+</div>
 
-## Featured Projects
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [Project Name](https://github.com/ljq-exe/repo) | Short description of what it does and the problem it solves | NestJS, PostgreSQL |
-| [Project Name](https://github.com/ljq-exe/repo) | Short description of what it does and the problem it solves | React, TypeScript |
-| [Project Name](https://github.com/ljq-exe/repo) | Short description of what it does and the problem it solves | Java, Spring |
+### // 03 :: CONNECT
 
-## Contact
+<div align="center">
 
-<a href="mailto:your.email@example.com">
-  <img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-</a>
 <a href="https://linkedin.com/in/your-profile">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LINKEDIN-00F0FF?style=flat-square&logo=linkedin&logoColor=0B0F19" alt="LinkedIn" />
 </a>
+<a href="https://github.com/ljq-exe">
+  <img src="https://img.shields.io/badge/GITHUB-FF2A6D?style=flat-square&logo=github&logoColor=0B0F19" alt="GitHub" />
+</a>
+<a href="mailto:your.email@example.com">
+  <img src="https://img.shields.io/badge/EMAIL-05FFA1?style=flat-square&logo=gmail&logoColor=0B0F19" alt="Email" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=ljq-exe&label=PROFILE+VIEWS&color=00F0FF&style=flat-square&labelColor=0B0F19" alt="Profile views" />
+
+</div>
+
+---
+
+<div align="center">
+
+`> LEARN_ // BUILD_ // DEBUG_ // EVOLVE_`
+
+</div>
