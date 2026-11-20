@@ -9,15 +9,14 @@
 <br/>
 
 <img src="https://img.shields.io/badge/LOCATION-Da_Nang%2C_Vietnam-FF2A6D?style=for-the-badge&labelColor=0B0F19" alt="Location" />
-<img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-05FFA1?style=for-the-badge&labelColor=0B0F19" alt="Status" />
 
 <br/><br/>
 
 <a href="https://github.com/ljq-exe?tab=repositories">
-  <img src="https://img.shields.io/badge/> VIEW_REPOSITORIES-00F0FF?style=for-the-badge&labelColor=0B0F19" alt="Repositories" />
+  <img src="https://img.shields.io/badge/VIEW_REPOSITORIES-00F0FF?style=for-the-badge&labelColor=0B0F19" alt="Repositories" />
 </a>
 <a href="mailto:your.email@example.com">
-  <img src="https://img.shields.io/badge/> CONTACT-FF2A6D?style=for-the-badge&labelColor=0B0F19" alt="Contact" />
+  <img src="https://img.shields.io/badge/CONTACT-FF2A6D?style=for-the-badge&labelColor=0B0F19" alt="Contact" />
 </a>
 
 </div>
@@ -53,8 +52,19 @@
 
 </div>
 
+---
 
-### // 03 :: CONNECT
+### // 03 :: FEATURED_PROJECTS
+
+| ID | PROJECT | DESCRIPTION | STACK |
+|:--:|---------|-------------|-------|
+| 01 | [Project Name](https://github.com/ljq-exe/repo) | One line on what it does and what problem it solves | `NestJS` `PostgreSQL` |
+| 02 | [Project Name](https://github.com/ljq-exe/repo) | One line on what it does and what problem it solves | `React` `TypeScript` |
+| 03 | [Project Name](https://github.com/ljq-exe/repo) | One line on what it does and what problem it solves | `Java` `Spring` |
+
+---
+
+### // 04 :: CONNECT
 
 <div align="center">
 
