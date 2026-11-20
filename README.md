@@ -61,7 +61,7 @@ Uncomment this block once you have real repositories to feature.
 
 <div align="center">
 
-<a href="https://linkedin.com/in/your-profile">
+<a href="https://linkedin.com/in/your-profile](https://www.linkedin.com/in/qu%C3%A2n-ph%E1%BA%A1m-41919641a">
   <img src="https://img.shields.io/badge/LinkedIn-B14DFF?style=flat-square&logo=linkedin&labelColor=0A0A12" alt="LinkedIn" />
 </a>
 <a href="https://github.com/ljq-exe">
