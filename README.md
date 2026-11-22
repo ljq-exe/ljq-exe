@@ -8,7 +8,7 @@
 
 ---
 
-### // ABOUT
+### ABOUT
 
 <img align="right" width="130" src="./typpingcat.gif" alt="Typing cat" />
 
@@ -17,17 +17,17 @@ I am a software engineering student focused on backend systems and software arch
 <br clear="right"/>
 
 ```yaml
-name:      Quan (Lucas)
+name:      Phạm Ngọc Minh Quân (Lucas)
 role:      Software Engineering Student
 base:      Da Nang, Vietnam
 system:    Fedora Linux · Niri
-focus:     backend · full-stack · architecture
+focus:     backend · full-stack 
 interests: cybersecurity · open source · machine learning
 ```
 
 ---
 
-### // STACK
+### STACK
 
 <div align="center">
 
@@ -57,7 +57,7 @@ interests: cybersecurity · open source · machine learning
 Uncomment this block once you have real repositories to feature.
 -->
 
-### // CONNECT
+### CONNECT
 
 <div align="center">
 
