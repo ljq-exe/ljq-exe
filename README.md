@@ -17,7 +17,7 @@ I am a software engineering student focused on backend systems and software arch
 <br clear="right"/>
 
 ```yaml
-name:      Phạm Ngọc Minh Quân (Lucas)
+name:      Phạm Ngọc Minh Quân (Lucas) or Roy
 role:      Software Engineering Student
 base:      Da Nang, Vietnam
 system:    Fedora Linux · Niri
